@@ -131,25 +131,26 @@ header {
 .footer{
     background-color: #151515;
     color: #fff;
-    height: 294px;
+    height: 300px;
 }
 .footer-h1{
+    margin: 0 auto;
     font-family: 'Baloo Bhai', cursive;
     font-weight: 400;
     font-size: 18px;
     color: #fff;
     margin-top: 73px;
-    margin-left: 112px;
     margin-bottom: 30px;
 }
 .footer-nav{
-    margin-left: 112px;
+    margin: 0 auto;
     padding: 0;
     color: #fff;
     margin-bottom: 83px;
 }
 
 footer nav a {
+    margin: 0 auto;
     color: #fff;
     font-family: 'Dosis', sans-serif;
     font-size: 14px;
