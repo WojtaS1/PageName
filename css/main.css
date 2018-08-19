@@ -16,32 +16,34 @@ header {
     margin-top: 24px;
     width: 22px;
     height: 19px;
+    margin-left: 28px;
 }
 .menu h1{
     margin-left: 112px;
     margin-top: 24px;
     font-family: 'Baloo Bhai', cursive;
     font-size: 24px;
+    width: 100%;
 }
 .top h1{
     font-family: 'Baloo Bhai', cursive;
     font-size: 32px;
     margin-top: 205px;
-    margin-left: 112px;
-    width: 600px;
+    margin-left: 162px;
+    width: 403px;
     height: 64px;
 }
 .top h2{
     font-family: 'Dosis', sans-serif;
     font-size: 18px;
     margin-top: 32px;
-    margin-left: 112px;
+    margin-left: 162px;
     width: 403px;
     height: 145px;
 }
 .top-button {
     margin-top: 39px;
-    margin-left: 112px;
+    margin-left: 162px;
     width: 136px;
     height: 48px;
     background-color: #151515;
